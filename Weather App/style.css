@@ -1,0 +1,48 @@
+
+
+
+#weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+    color: rgb(0, 132, 255);
+    font-size: 40px;
+  
+    
+}
+h4{
+  color: purple;
+  font-size: 70px;
+  -webkit-text-stroke: 2px black;
+  paint-order: stroke fill;
+  font-weight: bold;
+}
+#city-input {
+  max-width: 400px;
+  margin: 0 auto;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  
+}
+  
+.banner {
+    color: purple;
+
+    font-size: 100px;
+    -webkit-text-stroke: 3px black;
+    paint-order: stroke fill;
+    font-weight: bold;
+   
+}
+input::placeholder {
+  
+  text-align: center;
+  font-style: italic;
+  
+}
+body {
+    background-image: url('water.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
