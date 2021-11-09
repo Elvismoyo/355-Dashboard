@@ -5,6 +5,9 @@ body {margin:0;font-family:Arial}
   background-color: #1e90ff;
 }
 
+body{
+  z-index: 0;
+}
 .topnav a {
   float: left;
   display: block;
